@@ -17,11 +17,10 @@ The platform is optimized for mobile browsers (tested on Realme), maintaining it
  2. Ensure ViratKohli_LockScreen_RCB.mp4 is in the root directory.
  3. Open index.html in any modern browser.
 
-## 🛠️ Features
- * **Live Telemetry**: Automated scoreboards for T20 and Test formats.
- * **Cyber-HUD UI**: Dark theme with gold (#FFD700) and red accents.
- * **VAR Logs**: Advanced bracket progression tracking for football tournaments.
- * **System Status**: Real-time monitoring of node activity (NODE::ACTIVE) and system uptime.
+## **🛠️ Technical Overview**
+ * **Frontend**: HTML5, CSS3 (Custom Grid/Flexbox), JavaScript.
+ * **Design Style**: Futuristic/HUD (Heads-Up Display) aesthetic.
+ * **Optimization**: Mobile-first responsive design.
    
 *Play Bold. Compete Hard. Conquer the Arena.*
 *Created with ❤️ for RCB Fans.*
