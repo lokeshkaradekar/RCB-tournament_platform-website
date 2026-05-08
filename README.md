@@ -8,17 +8,15 @@ The platform features a dynamic background using ViratKohli_LockScreen_RCB.mp4 t
 The platform is optimized for mobile browsers (tested on Realme), maintaining its futuristic aesthetic and touch-friendly interface.
 
 ## 🚀 Getting Started
- 1. **Clone the repository:**
+ ## **🛠️ Setup**
+ 1. Clone the repo:
    ```bash
    git clone [https://github.com/lokeshkaradekar/RCB-tournament_platform-website.git](https://github.com/lokeshkaradekar/RCB-tournament_platform-website.git)
    
    ```
- 2. **Project Structure:**
-   * index.html: The main entry point of the application.
-   * ViratKohli_LockScreen_RCB.mp4: The background video asset.
+ 2. Ensure ViratKohli_LockScreen_RCB.mp4 is in the root directory.
+ 3. Open index.html in any modern browser.
 
- 3. **Launch:**
-   Simply open index.html in any modern web browser. For the best experience with the video background and telemetry features, using a local server (like Live Server on port 7700) is recommended.
 ## 🛠️ Features
  * **Live Telemetry**: Automated scoreboards for T20 and Test formats.
  * **Cyber-HUD UI**: Dark theme with gold (#FFD700) and red accents.
