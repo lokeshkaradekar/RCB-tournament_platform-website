@@ -5,9 +5,9 @@ The platform features a dynamic background using ViratKohli_LockScreen_RCB.mp4 t
 ## 📱 Screenshots
 <table style="width:100%">
 <tr>
-<td><img src="Screenshot1.jpg" width="100%"></td>
+<td><img src="Screenshot3.jpg" width="100%"></td>
 <td><img src="Screenshot2.jpg" width="100%"></td>
-</td><img src="Screenshot3.jpg" width="300"></tr>
+</td><img src="Screenshot1.jpg" width="300"></tr>
 </table>
 
 ### 📱 Responsive Mobile HUD
