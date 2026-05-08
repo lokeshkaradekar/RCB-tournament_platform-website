@@ -1,5 +1,4 @@
 # RCB Tournament Platform
-Repo Link
 A high-end, immersive tournament management platform themed around **Royal Challengers Bengaluru (RCB)**. This project leverages a futuristic HUD-style interface to manage multi-sport competitions.
 ## 🎥 Immersive Visuals
 The platform features a dynamic background using ViratKohli_LockScreen_RCB.mp4 to create a high-energy "Arena" atmosphere from the moment the user enters the platform.
