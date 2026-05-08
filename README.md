@@ -3,6 +3,12 @@ A high-end, immersive tournament management platform themed around **Royal Chall
 ## 🎥 Immersive Visuals
 The platform features a dynamic background using ViratKohli_LockScreen_RCB.mp4 to create a high-energy "Arena" atmosphere from the moment the user enters the platform.
 ## 📱 Screenshots
+<table style="width:100%">
+<tr>
+<td><img src="Screenshot1.jpg" width="100%"></td>
+<td><img src="Screenshot2.jpg" width="100%"></td>
+</td><img src="Screenshot3.jpg" width="300"></tr>
+</table>
 
 ### 📱 Responsive Mobile HUD
 The platform is optimized for mobile browsers (tested on Realme), maintaining its futuristic aesthetic and touch-friendly interface.
